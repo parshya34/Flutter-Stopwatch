@@ -18,7 +18,7 @@ A basic stopwatch that show minutes, seconds, milliseconds.
 
 
 # Clone this repository
-$ git clone [https://github.com/feMoraes0/stopwatch-app.git](https://github.com/parshya34/Flutter-Stopwatch.git)
+$ git clone (https://github.com/parshya34/Flutter-Stopwatch.git)
 
 # Go into the repository
 $ cd stopwatch-app
